@@ -1,0 +1,9 @@
+name: HydrenScripts
+main: com.hydren.ht.HydrenScriptsPlugin
+version: 1.0.0
+api-version: 1.21
+authors: [Hydren]
+commands:
+  htreload:
+    description: Reload HydrenScripts scripts
+    usage: /<command>

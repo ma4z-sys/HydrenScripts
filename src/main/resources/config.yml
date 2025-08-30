@@ -1,0 +1,3 @@
+# HydrenScripts config
+reload-on-start: true
+fetch-timeout-seconds: 10
